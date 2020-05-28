@@ -1,2 +1,2 @@
-# flutter-sample
+# razorpay-flutter-sample
 Razorpay flutter sample
